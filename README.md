@@ -20,6 +20,6 @@ This command first builds the project (npm run build) to create the final, ready
 
 Additional notes you might include:
 
-Make sure to install all dependencies first using npm install.
+Make sure to install all dependencies first using ``` npm install ```.
 
 You may need to configure your production environment separately (e.g., environment variables).
